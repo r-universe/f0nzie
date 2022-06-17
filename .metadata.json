@@ -1,0 +1,10 @@
+[
+  {
+    "package": "rODE",
+    "oncran": true
+  },
+  {
+    "package": "rTorch",
+    "oncran": true
+  }
+]
