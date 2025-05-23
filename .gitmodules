@@ -5,6 +5,3 @@
 [submodule "rODE"]
 	path = rODE
 	url = https://github.com/f0nzie/rode
-[submodule "rTorch"]
-	path = rTorch
-	url = https://github.com/f0nzie/rtorch
